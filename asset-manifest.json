@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/amartyaroy.github.io/static/css/main.895bfd77.chunk.css",
+    "main.js": "/amartyaroy.github.io/static/js/main.9377239d.chunk.js",
+    "main.js.map": "/amartyaroy.github.io/static/js/main.9377239d.chunk.js.map",
+    "runtime-main.js": "/amartyaroy.github.io/static/js/runtime-main.5b231ed0.js",
+    "runtime-main.js.map": "/amartyaroy.github.io/static/js/runtime-main.5b231ed0.js.map",
+    "static/js/2.bf98555e.chunk.js": "/amartyaroy.github.io/static/js/2.bf98555e.chunk.js",
+    "static/js/2.bf98555e.chunk.js.map": "/amartyaroy.github.io/static/js/2.bf98555e.chunk.js.map",
+    "index.html": "/amartyaroy.github.io/index.html",
+    "precache-manifest.976dfdd050061acf198750abf68c4550.js": "/amartyaroy.github.io/precache-manifest.976dfdd050061acf198750abf68c4550.js",
+    "service-worker.js": "/amartyaroy.github.io/service-worker.js",
+    "static/css/main.895bfd77.chunk.css.map": "/amartyaroy.github.io/static/css/main.895bfd77.chunk.css.map",
+    "static/js/2.bf98555e.chunk.js.LICENSE.txt": "/amartyaroy.github.io/static/js/2.bf98555e.chunk.js.LICENSE.txt",
+    "static/media/mypic.png": "/amartyaroy.github.io/static/media/mypic.8a02b12c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b231ed0.js",
+    "static/js/2.bf98555e.chunk.js",
+    "static/css/main.895bfd77.chunk.css",
+    "static/js/main.9377239d.chunk.js"
+  ]
+}
